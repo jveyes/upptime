@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jemavi.co.ico",
     "slug": "jemavi",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-15": 16
+      "2023-01-15": 18
     }
   },
   {
@@ -60,18 +60,20 @@
     "url": "https://saludsocial.tonoip.com",
     "icon": "https://icons.duckduckgo.com/ip3/saludsocial.tonoip.com.ico",
     "slug": "salud-social",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 378,
     "timeDay": 378,
     "timeWeek": 378,
     "timeMonth": 378,
     "timeYear": 378,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-15": 0
+    }
   },
   {
     "name": "SALVADOR GAVIOTA",
