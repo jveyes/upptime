@@ -15,6 +15,8 @@ sites:
     url: https://salvadorgaviota.tonoip.com
   - name: VPN INNOVA
     url: https://vpn.innovasystems.com.co
+  - name: GOIP
+    url: https://goip.innovasystems.com.co
   - name: SUCCIONAR
     url: https://succionar.co
   - name: URBANA
