@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jemavi.co.ico",
     "slug": "jemavi",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-16": 337,
+      "2023-01-16": 347,
       "2023-01-15": 62
     }
   },
@@ -61,19 +61,19 @@
     "url": "https://saludsocial.tonoip.com",
     "icon": "https://icons.duckduckgo.com/ip3/saludsocial.tonoip.com.ico",
     "slug": "salud-social",
-    "status": "down",
-    "uptime": "95.59%",
-    "uptimeDay": "95.59%",
-    "uptimeWeek": "95.59%",
-    "uptimeMonth": "95.59%",
-    "uptimeYear": "95.59%",
+    "status": "up",
+    "uptime": "93.31%",
+    "uptimeDay": "93.31%",
+    "uptimeWeek": "93.31%",
+    "uptimeMonth": "93.31%",
+    "uptimeYear": "93.31%",
     "time": 347,
     "timeDay": 347,
     "timeWeek": 347,
     "timeMonth": 347,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2023-01-16": 18
+      "2023-01-16": 28
     }
   },
   {
