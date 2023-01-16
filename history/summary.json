@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jemavi.co.ico",
     "slug": "jemavi",
     "status": "down",
-    "uptime": "1.15%",
-    "uptimeDay": "1.15%",
-    "uptimeWeek": "1.15%",
-    "uptimeMonth": "1.15%",
-    "uptimeYear": "1.15%",
+    "uptime": "1.19%",
+    "uptimeDay": "1.19%",
+    "uptimeWeek": "1.19%",
+    "uptimeMonth": "1.19%",
+    "uptimeYear": "1.19%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -62,18 +62,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/saludsocial.tonoip.com.ico",
     "slug": "salud-social",
     "status": "up",
-    "uptime": "85.87%",
-    "uptimeDay": "85.87%",
-    "uptimeWeek": "85.87%",
-    "uptimeMonth": "85.87%",
-    "uptimeYear": "85.87%",
+    "uptime": "86.66%",
+    "uptimeDay": "86.66%",
+    "uptimeWeek": "86.66%",
+    "uptimeMonth": "86.66%",
+    "uptimeYear": "86.66%",
     "time": 367,
     "timeDay": 367,
     "timeWeek": 367,
     "timeMonth": 367,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2023-01-16": 130
+      "2023-01-16": 123
     }
   },
   {
@@ -172,18 +172,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dispapirus.com.ico",
     "slug": "dispapirus",
     "status": "down",
-    "uptime": "2.73%",
-    "uptimeDay": "2.73%",
-    "uptimeWeek": "2.73%",
-    "uptimeMonth": "2.73%",
-    "uptimeYear": "2.73%",
+    "uptime": "2.05%",
+    "uptimeDay": "2.05%",
+    "uptimeWeek": "2.05%",
+    "uptimeMonth": "2.05%",
+    "uptimeYear": "2.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-16": 1
+      "2023-01-16": 2
     }
   },
   {
