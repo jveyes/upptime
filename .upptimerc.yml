@@ -13,6 +13,48 @@ sites:
     url: https://saludsocial.tonoip.com
   - name: SALVADOR GAVIOTA
     url: https://salvadorgaviota.tonoip.com
+  - name: AEREO CHARTER
+    url: https://aerochartercolombia.com
+  - name: AQUIUB BEAUTY
+    url: https://aquiubbeauty.com
+  - name: ANTALIA
+    url: https://antaliatienda.com
+  - name: ADVANCE PACKS
+    url: https://advansepacks.com
+  - name: GAFASPORT
+    url: https://gafasport.co
+  - name: TRAPANNI PIZZA
+    url: https://trapanipizzaestofada.com
+  - name: BIVPUL
+    url: https://bivpul.com
+  - name: DIANA PULGARIN
+    url: https://dianapulgarin.com
+  - name: MATIAS LAWYER
+    url: https://matiaslawyer.com
+  - name: AWOOKING RECORDS
+    url: https://awookingrecords.com
+  - name: DIMELO KING
+    url: https://dimeloking.com
+  - name: HIT MUSIC
+    url: https://hitsmusic.com.co
+  - name: LA FOCACHERIA
+    url: https://lafocacheria.com
+  - name: NATYASH
+    url: https://natyash.com
+  - name: PERFUMERIA GOLDSTONE
+    url: https://perfumeriagoldstone.com
+  - name: REPUESTOS AFS
+    url: https://repuestosafs.com
+  - name: SAISAC SAS
+    url: https://saisacsas.com
+  - name: SAISAC SHOP
+    url: https://saisacshop.com
+  - name: SHEKINA EXTENSIONS
+    url: https://shekinaextensions.com
+  - name: SOTTO
+    url: https://sotto.com.co
+  - name: YERBABUENA
+    url: https://yerbabuenacolombia.com 
 
 
 assignees:
