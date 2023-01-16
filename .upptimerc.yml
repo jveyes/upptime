@@ -14,7 +14,7 @@ sites:
   - name: SALVADOR GAVIOTA
     url: https://salvadorgaviota.tonoip.com
   - name: VPN INNOVA
-    url: https://vpn.innovasystems.com.co
+    url: https://vpn.innovasystems.com.co:943/admin
   - name: GOIP
     url: https://goip.innovasystems.com.co
   - name: SUCCIONAR
