@@ -15,7 +15,7 @@ sites:
     url: https://salvadorgaviota.tonoip.com
   - name: VPN INNOVA
     check: "tcp-ping"
-    url: https://vpn.innovasystems.com.co
+    url: https://vpn.innovasystems.com.co:943/admin
     port: 943
   - name: GOIP
     url: https://goip.innovasystems.com.co
