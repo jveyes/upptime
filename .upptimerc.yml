@@ -85,7 +85,6 @@ status-website:
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Online Status Innova Systems
   introTitle: "**Upptime** es un monitor de estado en linea para servidores, este es de código abierto, ademas cuenta con su propia página de estado, impulsado completamente por GitHub."
-  introMessage: Esta es una página de estado de muestra que usa datos en **tiempo real** de nuestro [repositorio de GitHub](https://github.com/upptime/upptime). No se requiere servidor, solo acciones, problemas y páginas de GitHub. [**Consigue el tuyo gratis**](https://github.com/upptime/upptime)
   navbar:
     - title: Online Status
       href: /
