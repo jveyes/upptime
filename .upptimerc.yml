@@ -94,6 +94,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  status-website:
+    faviconSvg: https://www.innovasystems.com.co/wp-content/uploads/2023/01/innova.svg
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
