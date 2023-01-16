@@ -13,6 +13,20 @@ sites:
     url: https://saludsocial.tonoip.com
   - name: SALVADOR GAVIOTA
     url: https://salvadorgaviota.tonoip.com
+  - name: SUCCIONAR
+    url: https://succionar.co
+  - name: URBANA
+    url: https://urbanaadministradores.com
+  - name: TONOIP
+    url: https://tonoip.com
+  - name: RESERVAME
+    url: https://reservame.click
+  - name: DISPAPIRUS
+    url: https://dispapirus.com
+  - name: DISPAPYRUS
+    url: https://dispapyrus.com
+  - name: GROWING CLUB
+    url: https://growingclub.co
   - name: AEREO CHARTER
     url: https://aerochartercolombia.com
   - name: AQUIUB BEAUTY
@@ -54,8 +68,7 @@ sites:
   - name: SOTTO
     url: https://sotto.com.co
   - name: YERBABUENA
-    url: https://yerbabuenacolombia.com 
-
+    url: https://yerbabuenacolombia.com
 
 assignees:
   - jveyes
