@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-16": 357,
+      "2023-01-16": 399,
       "2023-01-15": 62
     }
   },
@@ -61,19 +61,19 @@
     "url": "https://saludsocial.tonoip.com",
     "icon": "https://icons.duckduckgo.com/ip3/saludsocial.tonoip.com.ico",
     "slug": "salud-social",
-    "status": "down",
-    "uptime": "95.81%",
-    "uptimeDay": "95.81%",
-    "uptimeWeek": "95.81%",
-    "uptimeMonth": "95.81%",
-    "uptimeYear": "95.81%",
-    "time": 347,
-    "timeDay": 347,
-    "timeWeek": 347,
-    "timeMonth": 347,
-    "timeYear": 347,
+    "status": "up",
+    "uptime": "87.16%",
+    "uptimeDay": "87.16%",
+    "uptimeWeek": "87.16%",
+    "uptimeMonth": "87.16%",
+    "uptimeYear": "87.16%",
+    "time": 345,
+    "timeDay": 345,
+    "timeWeek": 345,
+    "timeMonth": 345,
+    "timeYear": 345,
     "dailyMinutesDown": {
-      "2023-01-16": 18
+      "2023-01-16": 60
     }
   },
   {
