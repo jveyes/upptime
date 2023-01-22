@@ -18,7 +18,7 @@ sites:
     url: https://vpn.innovasystems.com.co:943/admin
     port: 943
   - name: GOIP
-    url: https://goip.innovasystems.com.co
+    url: http://goip.innovasystems.com.co
   - name: SUCCIONAR
     url: https://succionar.co
   - name: URBANA
