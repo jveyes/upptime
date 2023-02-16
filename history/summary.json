@@ -13,7 +13,7 @@
     "time": 2159,
     "timeDay": 2438,
     "timeWeek": 2219,
-    "timeMonth": 2157,
+    "timeMonth": 2117,
     "timeYear": 2159,
     "dailyMinutesDown": {
       "2023-01-25": 30
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jemavi.co.ico",
     "slug": "jemavi",
     "status": "down",
-    "uptime": "98.01%",
+    "uptime": "98.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "98.01%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -54,7 +54,7 @@
     "time": 253,
     "timeDay": 122,
     "timeWeek": 247,
-    "timeMonth": 246,
+    "timeMonth": 230,
     "timeYear": 253,
     "dailyMinutesDown": {}
   },
@@ -63,19 +63,19 @@
     "url": "https://saludsocial.tonoip.com",
     "icon": "https://icons.duckduckgo.com/ip3/saludsocial.tonoip.com.ico",
     "slug": "salud-social",
-    "status": "up",
-    "uptime": "92.95%",
-    "uptimeDay": "86.43%",
-    "uptimeWeek": "86.15%",
-    "uptimeMonth": "92.69%",
-    "uptimeYear": "92.95%",
+    "status": "down",
+    "uptime": "93.02%",
+    "uptimeDay": "87.85%",
+    "uptimeWeek": "86.32%",
+    "uptimeMonth": "92.73%",
+    "uptimeYear": "93.02%",
     "time": 476,
-    "timeDay": 1939,
-    "timeWeek": 653,
-    "timeMonth": 479,
+    "timeDay": 2248,
+    "timeWeek": 656,
+    "timeMonth": 480,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2023-02-16": 109,
+      "2023-02-16": 110,
       "2023-02-15": 246,
       "2023-02-14": 255,
       "2023-02-13": 190,
@@ -91,7 +91,7 @@
       "2023-02-03": 177,
       "2023-02-02": 224,
       "2023-02-01": 246,
-      "2023-01-31": 54
+      "2023-01-31": 37
     }
   },
   {
@@ -108,7 +108,7 @@
     "time": 234,
     "timeDay": 133,
     "timeWeek": 224,
-    "timeMonth": 227,
+    "timeMonth": 208,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2023-02-06": 20
@@ -123,7 +123,7 @@
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.82%",
     "time": 0,
     "timeDay": 0,
@@ -168,7 +168,7 @@
     "time": 1322,
     "timeDay": 983,
     "timeWeek": 1060,
-    "timeMonth": 1322,
+    "timeMonth": 1151,
     "timeYear": 1322,
     "dailyMinutesDown": {}
   },
@@ -186,7 +186,7 @@
     "time": 873,
     "timeDay": 174,
     "timeWeek": 3241,
-    "timeMonth": 873,
+    "timeMonth": 948,
     "timeYear": 873,
     "dailyMinutesDown": {
       "2023-02-13": 20
@@ -206,7 +206,7 @@
     "time": 2018,
     "timeDay": 1495,
     "timeWeek": 1603,
-    "timeMonth": 2018,
+    "timeMonth": 1804,
     "timeYear": 2018,
     "dailyMinutesDown": {}
   },
@@ -224,7 +224,7 @@
     "time": 730,
     "timeDay": 597,
     "timeWeek": 896,
-    "timeMonth": 730,
+    "timeMonth": 717,
     "timeYear": 730,
     "dailyMinutesDown": {}
   },
@@ -237,7 +237,7 @@
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 0,
     "timeDay": 0,
@@ -262,7 +262,7 @@
     "time": 5046,
     "timeDay": 2896,
     "timeWeek": 5991,
-    "timeMonth": 5046,
+    "timeMonth": 5456,
     "timeYear": 5046,
     "dailyMinutesDown": {}
   },
@@ -280,7 +280,7 @@
     "time": 10042,
     "timeDay": 2697,
     "timeWeek": 10596,
-    "timeMonth": 10042,
+    "timeMonth": 10511,
     "timeYear": 10042,
     "dailyMinutesDown": {}
   },
@@ -290,15 +290,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/aerochartercolombia.com.ico",
     "slug": "aereo-charter",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 2720,
     "timeDay": 1806,
     "timeWeek": 2385,
-    "timeMonth": 2720,
+    "timeMonth": 2719,
     "timeYear": 2720,
     "dailyMinutesDown": {
       "2023-01-25": 30,
@@ -319,7 +319,7 @@
     "time": 2547,
     "timeDay": 2348,
     "timeWeek": 2589,
-    "timeMonth": 2547,
+    "timeMonth": 2559,
     "timeYear": 2547,
     "dailyMinutesDown": {
       "2023-01-25": 29
@@ -339,7 +339,7 @@
     "time": 2857,
     "timeDay": 3076,
     "timeWeek": 2931,
-    "timeMonth": 2857,
+    "timeMonth": 2878,
     "timeYear": 2857,
     "dailyMinutesDown": {
       "2023-01-25": 40
@@ -359,7 +359,7 @@
     "time": 1760,
     "timeDay": 1597,
     "timeWeek": 1746,
-    "timeMonth": 1760,
+    "timeMonth": 1795,
     "timeYear": 1760,
     "dailyMinutesDown": {
       "2023-01-25": 40
@@ -379,7 +379,7 @@
     "time": 2424,
     "timeDay": 2534,
     "timeWeek": 2204,
-    "timeMonth": 2424,
+    "timeMonth": 2433,
     "timeYear": 2424,
     "dailyMinutesDown": {
       "2023-01-25": 28
@@ -399,7 +399,7 @@
     "time": 452,
     "timeDay": 212,
     "timeWeek": 398,
-    "timeMonth": 452,
+    "timeMonth": 411,
     "timeYear": 452,
     "dailyMinutesDown": {}
   },
@@ -409,15 +409,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bivpul.com.ico",
     "slug": "bivpul",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 598,
     "timeDay": 124,
     "timeWeek": 1724,
-    "timeMonth": 598,
+    "timeMonth": 661,
     "timeYear": 598,
     "dailyMinutesDown": {
       "2023-02-09": 41,
@@ -438,7 +438,7 @@
     "time": 1099,
     "timeDay": 751,
     "timeWeek": 964,
-    "timeMonth": 1099,
+    "timeMonth": 1082,
     "timeYear": 1099,
     "dailyMinutesDown": {
       "2023-01-25": 23
@@ -450,15 +450,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/matiaslawyer.com.ico",
     "slug": "matias-lawyer",
     "status": "up",
-    "uptime": "97.48%",
+    "uptime": "97.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.92%",
+    "uptimeWeek": "97.25%",
     "uptimeMonth": "97.44%",
-    "uptimeYear": "97.48%",
+    "uptimeYear": "97.50%",
     "time": 7974,
     "timeDay": 1366,
-    "timeWeek": 12342,
-    "timeMonth": 7974,
+    "timeWeek": 10493,
+    "timeMonth": 8533,
     "timeYear": 7974,
     "dailyMinutesDown": {
       "2023-02-13": 18,
@@ -483,7 +483,7 @@
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 0,
     "timeDay": 0,
@@ -508,7 +508,7 @@
     "time": 2319,
     "timeDay": 1869,
     "timeWeek": 2274,
-    "timeMonth": 2319,
+    "timeMonth": 2271,
     "timeYear": 2319,
     "dailyMinutesDown": {
       "2023-01-25": 28
@@ -528,7 +528,7 @@
     "time": 572,
     "timeDay": 416,
     "timeWeek": 535,
-    "timeMonth": 572,
+    "timeMonth": 555,
     "timeYear": 572,
     "dailyMinutesDown": {
       "2023-01-25": 27,
@@ -549,7 +549,7 @@
     "time": 981,
     "timeDay": 800,
     "timeWeek": 957,
-    "timeMonth": 981,
+    "timeMonth": 943,
     "timeYear": 981,
     "dailyMinutesDown": {
       "2023-01-25": 27,
@@ -562,15 +562,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/natyash.com.ico",
     "slug": "natyash",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "99.26%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.28%",
     "time": 4966,
     "timeDay": 694,
     "timeWeek": 6118,
-    "timeMonth": 4966,
+    "timeMonth": 5455,
     "timeYear": 4966,
     "dailyMinutesDown": {
       "2023-02-13": 18,
@@ -597,7 +597,7 @@
     "time": 2436,
     "timeDay": 2314,
     "timeWeek": 2356,
-    "timeMonth": 2436,
+    "timeMonth": 2421,
     "timeYear": 2436,
     "dailyMinutesDown": {
       "2023-01-25": 27
@@ -609,15 +609,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/repuestosafs.com.ico",
     "slug": "repuestos-afs",
     "status": "up",
-    "uptime": "83.38%",
+    "uptime": "83.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "83.13%",
-    "uptimeYear": "83.38%",
+    "uptimeYear": "83.48%",
     "time": 1781,
     "timeDay": 1650,
     "timeWeek": 1753,
-    "timeMonth": 1781,
+    "timeMonth": 1806,
     "timeYear": 1781,
     "dailyMinutesDown": {
       "2023-01-25": 91,
@@ -643,7 +643,7 @@
     "time": 3553,
     "timeDay": 3114,
     "timeWeek": 3395,
-    "timeMonth": 3553,
+    "timeMonth": 3505,
     "timeYear": 3553,
     "dailyMinutesDown": {
       "2023-01-25": 33
@@ -663,7 +663,7 @@
     "time": 2902,
     "timeDay": 2079,
     "timeWeek": 2340,
-    "timeMonth": 2902,
+    "timeMonth": 2889,
     "timeYear": 2902,
     "dailyMinutesDown": {
       "2023-02-03": 45
@@ -675,15 +675,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/shekinaextensions.com.ico",
     "slug": "shekina-extensions",
     "status": "up",
-    "uptime": "97.55%",
+    "uptime": "97.56%",
     "uptimeDay": "94.05%",
     "uptimeWeek": "97.40%",
     "uptimeMonth": "97.51%",
-    "uptimeYear": "97.55%",
+    "uptimeYear": "97.56%",
     "time": 8829,
     "timeDay": 15505,
     "timeWeek": 9587,
-    "timeMonth": 8829,
+    "timeMonth": 9290,
     "timeYear": 8829,
     "dailyMinutesDown": {
       "2023-02-16": 85,
@@ -711,7 +711,7 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 0,
     "timeDay": 0,
@@ -736,7 +736,7 @@
     "time": 2737,
     "timeDay": 2523,
     "timeWeek": 2689,
-    "timeMonth": 2737,
+    "timeMonth": 2715,
     "timeYear": 2737,
     "dailyMinutesDown": {
       "2023-01-25": 20
