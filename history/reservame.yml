@@ -1,7 +1,7 @@
 url: https://reservame.click
-status: up
-code: 200
-responseTime: 3275
-lastUpdated: 2023-05-06T23:12:49.261Z
+status: down
+code: 500
+responseTime: 652
+lastUpdated: 2023-05-07T05:29:03.168Z
 startTime: Mon Jan 16 2023 14:09:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
