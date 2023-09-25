@@ -1,7 +1,7 @@
 url: https://growingclub.co
-status: up
-code: 200
-responseTime: 3437
-lastUpdated: 2023-09-24T23:12:13.308Z
+status: down
+code: 500
+responseTime: 443
+lastUpdated: 2023-09-25T16:43:04.409Z
 startTime: 2023-01-16T14:09:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
