@@ -54,18 +54,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/villavenecia.tonoip.com.ico",
     "slug": "villavenecia",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "79.70%",
-    "uptimeWeek": "94.75%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.83%",
+    "uptimeDay": "76.92%",
+    "uptimeWeek": "93.86%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "99.83%",
     "time": 2282,
     "timeDay": 1928,
     "timeWeek": 1952,
     "timeMonth": 2028,
     "timeYear": 2400,
     "dailyMinutesDown": {
-      "2024-01-23": 292,
+      "2024-01-24": 82,
+      "2024-01-23": 300,
       "2024-01-22": 237,
       "2023-11-10": 21,
       "2023-04-07": 119,
@@ -222,14 +223,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.40%",
+    "uptimeYear": "35.38%",
     "time": 658,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 705,
     "dailyMinutesDown": {
-      "2024-01-23": 1432,
+      "2024-01-24": 82,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -583,18 +585,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/growingclub.co.ico",
     "slug": "growing-club",
     "status": "down",
-    "uptime": "80.14%",
+    "uptime": "80.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.73%",
+    "uptimeYear": "79.72%",
     "time": 8779,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 8917,
     "dailyMinutesDown": {
-      "2024-01-23": 1432,
+      "2024-01-24": 82,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -682,18 +685,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aerochartercolombia.com.ico",
     "slug": "aereo-charter",
     "status": "down",
-    "uptime": "24.51%",
+    "uptime": "24.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "22.97%",
+    "uptimeYear": "22.96%",
     "time": 1484,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1368,
     "dailyMinutesDown": {
-      "2024-01-23": 1432,
+      "2024-01-24": 82,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -976,8 +980,7 @@
       "2023-02-25": 0,
       "2023-02-24": 1440,
       "2023-02-23": 263,
-      "2023-01-25": 30,
-      "2023-01-24": 17
+      "2023-01-25": 30
     }
   },
   {
@@ -1010,18 +1013,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/antaliatienda.com.ico",
     "slug": "antalia",
     "status": "down",
-    "uptime": "66.64%",
+    "uptime": "66.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.97%",
+    "uptimeYear": "65.95%",
     "time": 2608,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2591,
     "dailyMinutesDown": {
-      "2024-01-23": 1433,
+      "2024-01-24": 82,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -1156,18 +1160,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/advansepacks.com.ico",
     "slug": "advance-packs",
     "status": "down",
-    "uptime": "53.85%",
+    "uptime": "53.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.91%",
+    "uptimeYear": "52.89%",
     "time": 1691,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1689,
     "dailyMinutesDown": {
-      "2024-01-23": 1433,
+      "2024-01-24": 82,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -1377,14 +1382,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.48%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.17%",
+    "uptimeYear": "28.16%",
     "time": 781,
     "timeDay": 885,
     "timeWeek": 849,
     "timeMonth": 860,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2024-01-23": 1433,
+      "2024-01-24": 82,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1408,
@@ -1670,8 +1676,7 @@
       "2023-10-21": 32,
       "2023-04-26": 235,
       "2023-04-25": 22,
-      "2023-02-09": 41,
-      "2023-01-24": 33
+      "2023-02-09": 41
     }
   },
   {
@@ -1732,8 +1737,7 @@
       "2023-02-06": 178,
       "2023-02-05": 135,
       "2023-02-03": 92,
-      "2023-01-29": 105,
-      "2023-01-24": 50
+      "2023-01-29": 105
     }
   },
   {
@@ -1787,14 +1791,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.68%",
+    "uptimeYear": "17.66%",
     "time": 554,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 544,
     "dailyMinutesDown": {
-      "2024-01-23": 1433,
+      "2024-01-24": 82,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -2097,8 +2102,7 @@
       "2023-02-25": 112,
       "2023-02-24": 1440,
       "2023-02-23": 259,
-      "2023-01-25": 27,
-      "2023-01-24": 17
+      "2023-01-25": 27
     }
   },
   {
@@ -2135,8 +2139,7 @@
       "2023-02-25": 1440,
       "2023-02-24": 1440,
       "2023-02-23": 259,
-      "2023-01-25": 27,
-      "2023-01-24": 16
+      "2023-01-25": 27
     }
   },
   {
@@ -2190,8 +2193,7 @@
       "2023-02-11": 71,
       "2023-02-09": 104,
       "2023-02-04": 17,
-      "2023-01-31": 20,
-      "2023-01-24": 24
+      "2023-01-31": 20
     }
   },
   {
@@ -2248,7 +2250,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/repuestosafs.com.ico",
     "slug": "repuestos-afs",
     "status": "down",
-    "uptime": "69.23%",
+    "uptime": "69.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2259,7 +2261,8 @@
     "timeMonth": 0,
     "timeYear": 1720,
     "dailyMinutesDown": {
-      "2024-01-23": 1433,
+      "2024-01-24": 82,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -2373,8 +2376,7 @@
       "2023-02-25": 1440,
       "2023-02-24": 1440,
       "2023-02-23": 258,
-      "2023-01-25": 91,
-      "2023-01-24": 1440
+      "2023-01-25": 91
     }
   },
   {
@@ -2438,18 +2440,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/shekinaextensions.com.ico",
     "slug": "shekina-extensions",
     "status": "down",
-    "uptime": "52.19%",
+    "uptime": "52.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.25%",
+    "uptimeYear": "51.23%",
     "time": 5519,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 5545,
     "dailyMinutesDown": {
-      "2024-01-23": 1433,
+      "2024-01-24": 82,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -2648,8 +2651,7 @@
       "2023-02-02": 39,
       "2023-01-31": 68,
       "2023-01-28": 16,
-      "2023-01-26": 38,
-      "2023-01-24": 49
+      "2023-01-26": 38
     }
   },
   {
