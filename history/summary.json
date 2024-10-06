@@ -54,18 +54,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/villavenecia.tonoip.com.ico",
     "slug": "villavenecia",
     "status": "down",
-    "uptime": "65.20%",
+    "uptime": "65.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "40.08%",
+    "uptimeYear": "40.06%",
     "time": 1018,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1387,
     "dailyMinutesDown": {
-      "2024-10-05": 1397,
+      "2024-10-06": 44,
+      "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -331,18 +332,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/salvadorgaviota.tonoip.com.ico",
     "slug": "salvador-gaviota",
     "status": "down",
-    "uptime": "71.34%",
+    "uptime": "71.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "50.61%",
+    "uptimeYear": "50.60%",
     "time": 254,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2024-10-05": 1397,
+      "2024-10-06": 44,
+      "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -606,7 +608,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-05": 1397,
+      "2024-10-06": 44,
+      "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -969,8 +972,7 @@
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
-      "2023-10-08": 1440,
-      "2023-10-07": 1440
+      "2023-10-08": 1440
     }
   },
   {
@@ -1036,19 +1038,20 @@
     "url": "https://dispapirus.com",
     "icon": "https://icons.duckduckgo.com/ip3/dispapirus.com.ico",
     "slug": "dispapirus",
-    "status": "down",
-    "uptime": "95.73%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "97.72%",
-    "uptimeYear": "92.66%",
-    "time": 893,
-    "timeDay": 657,
-    "timeWeek": 772,
-    "timeMonth": 860,
-    "timeYear": 893,
+    "status": "up",
+    "uptime": "95.72%",
+    "uptimeDay": "92.34%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "97.53%",
+    "uptimeYear": "92.64%",
+    "time": 896,
+    "timeDay": 792,
+    "timeWeek": 805,
+    "timeMonth": 867,
+    "timeYear": 896,
     "dailyMinutesDown": {
-      "2024-10-05": 24,
+      "2024-10-06": 44,
+      "2024-10-05": 66,
       "2024-10-03": 40,
       "2024-10-02": 82,
       "2024-09-29": 32,
@@ -1124,14 +1127,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "9.86%",
+    "uptimeYear": "9.84%",
     "time": 8174,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 6655,
     "dailyMinutesDown": {
-      "2024-10-05": 1398,
+      "2024-10-06": 45,
+      "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -1480,7 +1484,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-05": 1398,
+      "2024-10-06": 45,
+      "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -1843,8 +1848,7 @@
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
-      "2023-10-08": 1440,
-      "2023-10-07": 1440
+      "2023-10-08": 1440
     }
   },
   {
@@ -1853,18 +1857,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aquiubbeauty.com.ico",
     "slug": "aquiub-beauty",
     "status": "down",
-    "uptime": "96.13%",
+    "uptime": "96.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "29.10%",
-    "uptimeYear": "94.08%",
+    "uptimeMonth": "28.90%",
+    "uptimeYear": "94.06%",
     "time": 1363,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 925,
     "timeYear": 1501,
     "dailyMinutesDown": {
-      "2024-10-05": 1398,
+      "2024-10-06": 45,
+      "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -1897,7 +1902,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/antaliatienda.com.ico",
     "slug": "antalia",
     "status": "down",
-    "uptime": "39.50%",
+    "uptime": "39.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1908,7 +1913,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-05": 1398,
+      "2024-10-06": 45,
+      "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -2271,8 +2277,7 @@
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
-      "2023-10-08": 1440,
-      "2023-10-07": 1440
+      "2023-10-08": 1440
     }
   },
   {
@@ -2292,7 +2297,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-05": 1398,
+      "2024-10-06": 45,
+      "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -2655,8 +2661,7 @@
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
-      "2023-10-08": 1440,
-      "2023-10-07": 1440
+      "2023-10-08": 1440
     }
   },
   {
@@ -2700,7 +2705,8 @@
     "timeMonth": 853,
     "timeYear": 885,
     "dailyMinutesDown": {
-      "2024-10-05": 1398,
+      "2024-10-06": 45,
+      "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -3063,8 +3069,7 @@
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
-      "2023-10-08": 1440,
-      "2023-10-07": 1440
+      "2023-10-08": 1440
     }
   },
   {
@@ -3157,18 +3162,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dimeloking.com.ico",
     "slug": "dimelo-king",
     "status": "down",
-    "uptime": "75.62%",
+    "uptime": "75.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "58.35%",
+    "uptimeYear": "58.34%",
     "time": 2072,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2051,
     "dailyMinutesDown": {
-      "2024-10-05": 1398,
+      "2024-10-06": 45,
+      "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -3342,7 +3348,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-05": 1398,
+      "2024-10-06": 45,
+      "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -3705,8 +3712,7 @@
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
-      "2023-10-08": 1440,
-      "2023-10-07": 1440
+      "2023-10-08": 1440
     }
   },
   {
@@ -3735,18 +3741,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/natyash.com.ico",
     "slug": "natyash",
     "status": "down",
-    "uptime": "93.21%",
+    "uptime": "93.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "88.65%",
+    "uptimeYear": "88.63%",
     "time": 407,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2024-10-05": 1398,
+      "2024-10-06": 45,
+      "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -3831,7 +3838,7 @@
     "time": 2193,
     "timeDay": 5497,
     "timeWeek": 4480,
-    "timeMonth": 4208,
+    "timeMonth": 4264,
     "timeYear": 2404,
     "dailyMinutesDown": {
       "2024-10-03": 63,
@@ -4065,7 +4072,7 @@
     "time": 3485,
     "timeDay": 3740,
     "timeWeek": 2948,
-    "timeMonth": 3179,
+    "timeMonth": 3148,
     "timeYear": 3362,
     "dailyMinutesDown": {
       "2024-03-02": 29,
@@ -4086,7 +4093,7 @@
     "time": 3410,
     "timeDay": 2814,
     "timeWeek": 2655,
-    "timeMonth": 2651,
+    "timeMonth": 2626,
     "timeYear": 3278,
     "dailyMinutesDown": {
       "2024-05-31": 930,
@@ -4125,7 +4132,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/shekinaextensions.com.ico",
     "slug": "shekina-extensions",
     "status": "down",
-    "uptime": "30.93%",
+    "uptime": "30.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -4136,7 +4143,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-05": 1398,
+      "2024-10-06": 45,
+      "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -4499,8 +4507,7 @@
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
-      "2023-10-08": 1440,
-      "2023-10-07": 1440
+      "2023-10-08": 1440
     }
   },
   {
@@ -4535,7 +4542,7 @@
     "time": 1849,
     "timeDay": 756,
     "timeWeek": 826,
-    "timeMonth": 898,
+    "timeMonth": 889,
     "timeYear": 1662,
     "dailyMinutesDown": {
       "2024-02-20": 390,
